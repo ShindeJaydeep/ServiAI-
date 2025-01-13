@@ -1,4 +1,4 @@
-Here's an updated version of your `README.md` with some emojis to make it more user-friendly:
+
 
 ```markdown
 # ServiAI Chatbot 🤖🍽️
